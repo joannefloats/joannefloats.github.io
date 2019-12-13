@@ -1,0 +1,115 @@
+html {background-color:white}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    
+    width: 100%;
+    height: 100%;
+    background: #2e2d2c
+}
+
+.menu ul{
+    display: inline-flex;
+        margin: 50px;
+    
+}
+
+
+.menu ul li{
+       list-style: none;
+    margin: 0 20px;
+        color:#e8cbf5;
+    cursor: pointer;
+    font-family: 'Bebas Neue', arial;
+}
+
+
+  
+}
+
+.logo img{
+    margin-top: -7px;
+    margin-right: 48px;
+    width: 20px;
+    height: 20px;
+}
+}
+
+h1{
+    font-family: 'Bebas Neue', arial;
+    font-size: 40px;
+    width:640;
+    position: relative;
+    margin-left: 40px;
+    
+}
+
+.p{
+    font-family: 'Bebas Neue', monospace;
+    width: 650px;
+    font-size: 15px;
+    margin:30px 0 30px 40px;
+    line-height: 25px;
+    color: whitesmoke;
+    
+}
+
+    
+    
+
+.img{
+    width: 100%;
+    margin-top:-20px;
+    padding-left: 50px;
+   
+}
+h1 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Bebas Neue', arial;
+}
+p{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    font-family: 'Lilita One', arial;
+}
+
+
+a{
+    
+    color:palevioletred;
+    text-decoration:none;
+    
+}
+
+a:hover{
+    color: aquamarine;
+}
+
+body {
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Lilita One', Arial; 
+    
+    
+}
+
+ul{
+    text-align: center;
+margin-left: auto;
+    margin-bottom: auto;
+}
+
+html{ background-image: url(../images/background.jpg)
+    
+}
+
+
